@@ -69,7 +69,7 @@ Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vac
 
 *Figuur 3.1 - Bestaande concepten vacuümriolering in het [GWSW]*
 
-Andere aandachtspunten zijn:
+Andere aandachtspunten zijn: 
 - Een [vacuümleiding] zou geen ontluchter of ontspanningsventiel (be- en ontluchter) moeten kunnen hebben
 - Een [Vacuümpompstation] is geen deel van een persleidingstelsel
 
