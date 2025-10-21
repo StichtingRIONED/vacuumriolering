@@ -43,6 +43,4 @@ De Engelse website van Qua-vac1 beschrijft de systeemonderdelen uit Figuur 2.1. 
 *Bij deze fabrikant gaat het alleen over de bediening van de vacuümklep
 
 # Bronvermelding
-[1]: https://quavac.com/vacuum-sewer-system/ "https://quavac.com/vacuum-sewer-system/"
-[1]: https://quavac.com/vacuum-sewer-system/ "Vacuum sewer system - Quavac"
-[^1]: [Vacuum sewer system - Quavac](https://quavac.com/vacuum-sewer-system/)
+[1]: [https://quavac.com/vacuum-sewer-system/](https://quavac.com/vacuum-sewer-system/)
