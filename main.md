@@ -42,5 +42,4 @@ De Engelse website van Qua-vac [1] beschrijft de systeemonderdelen uit Figuur 2.
 | Opslagruimte voor het afvalwater dat via een vacuümleiding wordt aangevoerd                                          | Wastewater tank        | Vacuum tank                    | Collection tank        |
 *Bij deze fabrikant gaat het alleen over de bediening van de vacuümklep
 
-# Bronvermelding
-[1]: [https://quavac.com/vacuum-sewer-system/](https://quavac.com/vacuum-sewer-system/)
+[Qua-vac]: https://quavac.com/vacuum-sewer-system/
