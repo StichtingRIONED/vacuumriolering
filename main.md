@@ -43,7 +43,7 @@ Roediger heeft het in de brochure over een besturingseenheid (control unit) om d
 
 Middels vacuümleidingen wordt het afvalwater van de bufferput naar het centrale vacuümstation getransporteerd. Alle onderzochte fabrikanten hanteren hier dezelfde term voor. De vroegere [NEN 3300:1996] had het over de term vacuümpompstation of een onderdrukpompstation. Meerdere bufferputten kunnen op dezelfde vacuümleiding inprikken. Vacuümleidingen worden in vlak gebied in een zaagtandprofiel gelegd, zoals getoond in (4) van Figuur 2.1. Doel van dit zaagtandprofiel is om op de laagste punten, ook wel pockets genoemd, 'proppen' afvalwater te vormen die lucht en vloeistof insluiten. Deze proppen worden door onderdruk en lucht omhoog gevoerd waarna deze verder worden afgevoerd richting de volgende pocket. 
 
-*Tabel 2.1 - De door fabrikant gebruikte (Engelse) termen voor veel voorkomende systeemonderdelen.*
+*Tabel 2.1 - De door leveranciers gebruikte (Engelse) termen voor veel voorkomende systeemonderdelen.*
 
 | **Omschrijving**                                                                                                     | **Roediger**           | **Qua-vac**                    | **Flovac**             |
 | -------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------ | ---------------------- |
@@ -52,6 +52,7 @@ Middels vacuümleidingen wordt het afvalwater van de bufferput naar het centrale
 | Leiding waardoor afvalwater door onderdruk wordt getransporteerd                                                     | Vacuum pipe            | Vacuum pipe                    | Vacuum pipe            |
 | Centraal pompstation voor het in stand houden van de onderdruk en het vervolgens verder transporteren van afvalwater | Vacuum pumping station | Vacuum pumping station         | Vacuum pumping station |
 | Opslagruimte voor het afvalwater dat via een vacuümleiding wordt aangevoerd                                          | Wastewater tank        | Vacuum tank                    | Collection tank        |
+
 *Bij deze fabrikant gaat het alleen over de bediening van de vacuümklep
 
 Een vacuümstation, of vacuümpompstation ontvangt afvalwater van één of meerdere vacuümleidingen op een centrale plek en is voorzien van:
@@ -64,7 +65,7 @@ Een vacuümstation, of vacuümpompstation ontvangt afvalwater van één of meerd
 # Bestaande concepten vacuümriolering in het GWSW
 Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vacuümriolering in het [GWSW]. In tegenstelling tot de termen die de fabrikanten hanteren wordt in het GWSW een vacuümopslagtank als hoofdterm gehanteerd voor de bufferput (bufferput is wel opgenomen als synoniem). Ook zijn onderdelen van een vacuümpompstation zoals een luchtafscheider, vacuümpomp, geurfilter, etc. niet gedefinieerd.
 
-<img src="media/gwsw_huidig.png" style="width:80%;height:80%" />
+<img src="media/GWSW_huidig.png" style="width:80%;height:80%" />
 
 *Figuur 3.1 - Bestaande concepten vacuümriolering in het [GWSW]*
 
@@ -89,6 +90,7 @@ Een **vacuümpompstation** of een onderdrukpompstation volgens de NEN 3300:1996 
 - Pomp: Een pomp waarbij het verzamelde afvalwater middels overdruk richting het benedenstroomse riool of de zuiveringsinstallatie wordt verpompt. Reeds beschreven in het GWSW maar nog geen onderdeel van een vacuümpompstation.
 - Luchtafscheider: Toestel bestemd voor de behandeling van luchthoudend afvalwater, waarbij lucht door het verschil in dichtheid tussen lucht en water uit afvalwater wordt verwijderd.
 - Stankfilter: Reeds beschreven in het GWSW, met geurfilter als synoniem. Een stankfilter is nog niet erkend als onderdeel van een vacuümpompstation.
+
 Middels een **drukleiding** wordt het verzamelde water in het vacuümpompstation verder afgevoerd.
 
 
