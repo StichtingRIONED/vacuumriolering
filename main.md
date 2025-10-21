@@ -69,7 +69,7 @@ Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vac
 
 *Figuur 3.1 - Bestaande concepten vacuümriolering in het [GWSW]*
 
-Andere aandachtspunten zijn: 
+Andere aandachtspunten zijn:
 - Een [vacuümleiding] zou geen ontluchter of ontspanningsventiel (be- en ontluchter) moeten kunnen hebben
 - Een [Vacuümpompstation] is geen deel van een persleidingstelsel
 
@@ -92,7 +92,6 @@ Een **vacuümpompstation** of een onderdrukpompstation volgens de NEN 3300:1996 
 - Stankfilter: Reeds beschreven in het GWSW, met geurfilter als synoniem. Een stankfilter is nog niet erkend als onderdeel van een vacuümpompstation.
 
 Middels een **drukleiding** wordt het verzamelde water in het vacuümpompstation verder afgevoerd.
-
 
 [Qua-vac]: https://quavac.com/vacuum-sewer-system/
 [GWSW]: https://data.gwsw.nl/?menu_item=classes&item=../../def/1.6.1/Basis/Vacuumriolering
