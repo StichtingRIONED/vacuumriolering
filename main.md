@@ -75,9 +75,19 @@ Andere aandachtspunten zijn:
 # Nieuwe GWSW-concepten
 Figuur 4.1 geeft een overzicht van de voorgestelde aanpassingen voor de fysieke objecten, welke hieronder verder toegelicht zijn. Inspectiewaarnemingen, metingen of onderhoudsactiviteiten zijn in deze notitie buiten beschouwing gelaten, maar bij behoefte vanuit de beheerders wel later toe te voegen.
 
-<img src="media/GWSW_voorstel.png" style="width:80%;height:80%" />
+<img src="media/GWSW_voorstel.png" style="width:90%;height:90%" />
 
-*Figuur 3.1 - Voorstel concepten vacuümriolering in het GWSW*
+*Figuur 4.1 - Voorstel concepten vacuümriolering in het GWSW*
+
+**Bufferput** is de voorgestelde term voor een verzamelput met daarin een vacuümklep. Verzamelput heeft niet de voorkeur aangezien dit een generieke term is die binnen een ander subdomein van stedelijk water een andere betekenis kan hebben. In het GWSW staat onterecht dat volgens de NEN 3300:1996 bufferput een synoniem is van vacuümopslagtank. Een vacuümklep kan onderdeel zijn van een bufferput, maar het is niet verplicht deze als zodanig in een dataset te definiëren. Ook kan een bufferput straks net als een rioolput worden voorzien van een putdeksel.
+**Vacuümleiding** bevat al de kenmerken van een generieke rioolleiding zoals begindatum, diameter, lengte, materiaal, wanddikte, etc. Vanuit Gemeente Almere bestaat de wens om locatie en hoogte van pockets expliciet in datasets op te nemen. Dit kan middels een apart onderdeel ‘pockets’ wat voorzien is van een puntoriëntatie en opvoerhoogte als kenmerk.
+Een **vacuümpompstation** of een onderdrukpompstation volgens de NEN 3300:1996 bevat de volgende onderdelen die optioneel beschreven kunnen worden:
+-Vacuümopslagtank (onderdrukopslagtank): een opslagruimte voor het afvalwater dat via een vacuümleiding wordt aangevoerd en waarin onderdruk in stand wordt gehouden.
+-Vacuümpomp: Een pomp die onderdruk creëert waardoor de vloeistof wordt verplaatst.
+-Pomp: Een pomp waarbij het verzamelde afvalwater middels overdruk richting het benedenstroomse riool of de zuiveringsinstallatie wordt verpompt. Reeds beschreven in het GWSW maar nog geen onderdeel van een vacuümpompstation.
+-Luchtafscheider: Toestel bestemd voor de behandeling van luchthoudend afvalwater, waarbij lucht door het verschil in dichtheid tussen lucht en water uit afvalwater wordt verwijderd.
+-Stankfilter: Reeds beschreven in het GWSW, met geurfilter als synoniem. Een stankfilter is nog niet erkend als onderdeel van een vacuümpompstation.
+Middels een **drukleiding** wordt het verzamelde water in het vacuümpompstation verder afgevoerd.
 
 
 [Qua-vac]: https://quavac.com/vacuum-sewer-system/
