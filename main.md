@@ -20,16 +20,28 @@ In 2024 ontving Stichting RIONED signalen uit de sector dat de gebruikte termino
 Ondersteuning bij de uitwisseling van vaste gegevens over vacuümriolering. Daarnaast vervult het GWSW ook een woordenboekfunctie waarmee uniformiteit ontstaat in de gebruikte termen en de samenhang tussen objecten binnen de sector. Dit is ook van belang voor gemeenten die zelf nog geen vacuümriolering hebben, maar dit wel overwegen.
 
 ## Leeswijzer
-De opbouw van dit ontwerpdocument is als volgt; eerst zijn de veelgebruikte termen van vacuümrioleringfabrikanten geïnventariseerd. Daarna is een overzicht gegeven van vacuümriolering in het GWSW. Ten slotte zijn aanbevelingen gedaan voor aanpassingen aan het GWSW om dit beter aan te laten sluiten bij de gebruikte termen uit de praktijk en het gewenste detailniveau.
+De opbouw van dit ontwerpdocument is als volgt; eerst zijn de veelgebruikte termen van vacuümrioleringleveranciers geïnventariseerd. Daarna is een overzicht gegeven van vacuümriolering in het GWSW. Ten slotte zijn aanbevelingen gedaan voor aanpassingen aan het GWSW om dit beter aan te laten sluiten bij de gebruikte termen uit de praktijk en het gewenste detailniveau.
 
-# Gebruikte termen fabrikanten
+# Gebruikte termen leveranciers
 Qua-vac, Flovac en Roediger zijn marktpartijen die vacuümsystemen leveren. Uit een rondgang bij gemeenten met veel kilometer vacuümriolering volgt dat de meeste systemen van Qua-vac afkomstig zijn.
 
-De Engelse website van Qua-vac [1] beschrijft de systeemonderdelen uit Figuur 2.1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 2.1 geeft een overzicht van de verschillende termen die de fabrikanten hanteren.
+De Engelse website van [Qua-vac] beschrijft de systeemonderdelen uit Figuur 2.1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 2.1 geeft een overzicht van de verschillende termen die de leveranciers hanteren.
 
 <img src="media/Qua_vac_systeemonderdelen.png" style="width:80%;height:80%" />
 
 *Figuur 2.1 - Systeemonderdelen van het Vacuflow systeem van Qua-vac. Bron: https://quavac.com/vacuum-sewer-system/*
+
+Roediger heeft het in de brochure over een besturingseenheid (control unit) om de vacuümklep te activeren bij het inschakelpeil. Flovac hanteert de term [controller] voor de bediening van de vacuümklep. Bij Qua-vac is de interface unit het geheel aan kleppen, vlotter en afsluiters om de afvoer van afvalwater naar de vacuümleiding te reguleren, zie ook Figuur 2.2. De vlotter onderin Figuur 2.3 opent de vacuümklep afhankelijk van het niveau in de bufferput.
+
+<img src="media/Interface-unit.png" style="width:60%;height:60%" />
+
+*Figuur 2.2 - Interface unit van Qua-vac met daarin een klep, vlotter, afsluiters en een bypass. Bron: https://quavac.com/nl/infra/*
+
+<img src="media/PXL_20240327_101950716.jpg" style="width:60%;height:60%" />
+
+*Figuur 2.3 - Voorbeeld van een bufferput in Gemeente Molenlanden*
+
+Middels vacuümleidingen wordt het afvalwater van de bufferput naar het centrale vacuümstation getransporteerd. Alle onderzochte fabrikanten hanteren hier dezelfde term voor. De vroegere [NEN 3300:1996] had het over de term vacuümpompstation of een onderdrukpompstation. Meerdere bufferputten kunnen op dezelfde vacuümleiding inprikken. Vacuümleidingen worden in vlak gebied in een zaagtandprofiel gelegd, zoals getoond in (4) van Figuur 2.1. Doel van dit zaagtandprofiel is om op de laagste punten, ook wel pockets genoemd, 'proppen' afvalwater te vormen die lucht en vloeistof insluiten. Deze proppen worden door onderdruk en lucht omhoog gevoerd waarna deze verder worden afgevoerd richting de volgende pocket. 
 
 *Tabel 2.1 - De door fabrikant gebruikte (Engelse) termen voor veel voorkomende systeemonderdelen.*
 
@@ -42,4 +54,28 @@ De Engelse website van Qua-vac [1] beschrijft de systeemonderdelen uit Figuur 2.
 | Opslagruimte voor het afvalwater dat via een vacuümleiding wordt aangevoerd                                          | Wastewater tank        | Vacuum tank                    | Collection tank        |
 *Bij deze fabrikant gaat het alleen over de bediening van de vacuümklep
 
+Een vacuümstation, of vacuümpompstation ontvangt afvalwater van één of meerdere vacuümleidingen op een centrale plek en is voorzien van:
+-Een vacuümtank waar afvalwater vanuit het leidingnetwerk in terecht komt. Flovac noemt dit een [verzameltank], Roediger een afvalwatertank en Qua-vac een vacuümtank. De [NEN 3300:1996] had het over een vacuümopslagtank of een onderdrukopslagtank
+-Vacuümpompen om onderdruk te creëren
+-Pompen die met overdruk afvalwater vanaf het vacuümstation naar de benedenstroomse riolering of zuiveringsinstallatie te pompen
+-Een luchtafscheider om te voorkomen dat vocht uit de vacuümtank in de vacuümpompen belandt
+-Een geurfilter om onaangename geuren van de afgezogen lucht af te vangen.
+
+# Bestaande vacuümrioleringconcepten in het GWSW
+Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vacuümriolering in het [GWSW]. In tegenstelling tot de termen die de fabrikanten hanteren wordt in het GWSW een vacuümopslagtank als hoofdterm gehanteerd voor de bufferput (bufferput is wel opgenomen als synoniem). Ook zijn onderdelen van een vacuümpompstation zoals een luchtafscheider, vacuümpomp, geurfilter, etc. niet gedefinieerd.
+
+<img src="media/gwsw_huidig.png" style="width:80%;height:80%" />
+
+*Figuur 3.1 - Bestaande concepten vacuümriolering in het [GWSW]*
+
+Andere aandachtspunten zijn:
+-Een [vacuümleiding] zou geen ontluchter of ontspanningsventiel (be- en ontluchter) moeten kunnen hebben
+-Een [Vacuümpompstation] is geen deel van een persleidingstelsel
+
 [Qua-vac]: https://quavac.com/vacuum-sewer-system/
+[GWSW]: https://data.gwsw.nl/?menu_item=classes&item=../../def/1.6.1/Basis/Vacuumriolering
+[verzameltank]: https://flovac.com/flovac-vacuum-pump-station/
+[controller]: https://flovac.com/flovac-vacuum-system-pe-collection-pit/
+[NEN 3300:1996]: https://www.nen.nl/nen-3300-1996-nl-21664
+[vacuümleiding]: https://data.gwsw.nl/?menu_item=classes&item=../../def/1.6.1/Basis/Sym_Vacuumleiding
+[Vacuümpompstation]: https://data.gwsw.nl/?menu_item=classes&item=../../def/1.6.1/Basis/Vacuumpompstation
