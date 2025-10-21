@@ -25,12 +25,24 @@ De opbouw van dit ontwerpdocument is als volgt; eerst zijn de veelgebruikte term
 # Gebruikte termen fabrikanten
 Qua-vac, Flovac en Roediger zijn marktpartijen die vacuümsystemen leveren. Uit een rondgang bij gemeenten met veel kilometer vacuümriolering volgt dat de meeste systemen van Qua-vac afkomstig zijn.
 
-De Engelse website van Qua-vac1 beschrijft de systeemonderdelen uit Figuur 1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 1 geeft een overzicht van de verschillende termen die de fabrikanten hanteren.
+De Engelse website van Qua-vac1 beschrijft de systeemonderdelen uit Figuur 2.1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 2.1 geeft een overzicht van de verschillende termen die de fabrikanten hanteren.
 
 <img src="media/Qua_vac_systeemonderdelen.png" style="width:80%;height:80%" />
 
 *Figuur 2.1 - Systeemonderdelen van het Vacuflow systeem van Qua-vac, Bron: [1]*
 
+*Tabel 2.1 - De door fabrikant gebruikte (Engelse) termen voor veel voorkomende systeemonderdelen.*
+
+| **Omschrijving**                                                                                                     | **Roediger**           | **Qua-vac**                    | **Flovac**             |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------ | ---------------------- |
+| Vrijverval inzamelput die geledigd wordt middels vacuüm                                                              | Collection chamber     | Bufferpot / Collection chamber | Collection Pit         |
+| geheel aan kleppen, vlotter en afsluiters om de afvoer van afvalwater naar de vacuümleiding te reguleren             | Control unit\*         | Interface unit                 | Controller\*           |
+| Leiding waardoor afvalwater door onderdruk wordt getransporteerd                                                     | Vacuum pipe            | Vacuum pipe                    | Vacuum pipe            |
+| Centraal pompstation voor het in stand houden van de onderdruk en het vervolgens verder transporteren van afvalwater | Vacuum pumping station | Vacuum pumping station         | Vacuum pumping station |
+| Opslagruimte voor het afvalwater dat via een vacuümleiding wordt aangevoerd                                          | Wastewater tank        | Vacuum tank                    | Collection tank        |
+*Bij deze fabrikant gaat het alleen over de bediening van de vacuümklep
 
 # Bronvermelding
 [1]: https://quavac.com/vacuum-sewer-system/ "https://quavac.com/vacuum-sewer-system/"
+[1]: https://quavac.com/vacuum-sewer-system/ "Vacuum sewer system - Quavac"
+[^1]: [Vacuum sewer system - Quavac](https://quavac.com/vacuum-sewer-system/)
