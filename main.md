@@ -10,7 +10,7 @@ Stichting RIONED is initiatiefnemer en eigenaar van dit GitHub-project, Eric Oos
 Vragen over deze website en het GWSW kunt u stellen via gwsw@rioned.org. 
 
 # Inleiding
-Vacuümriolering is een systeem waarbij afvalwater door middel van onderdruk wordt getransporteerd. Er bestaan verschillende systeemconfiguraties, maar doorgaans lozen één of meerdere panden onder vrijverval op een bufferput die is voorzien van een klepmechanisme. Dit mechanisme opent zodra een vooraf ingestelde waterdiepte is bereikt. Door de onderdruk in de vacuümleiding wordt vervolgens een mengsel van afvalwater en lucht uit de bufferput gezogen en naar het centrale vacuümstation getransporteerd. De vacuümpompen in dit station zorgen voor de benodigde onderdruk in de aangesloten leidingen. Vanaf het vacuümstation wordt het afvalwater geloosd op een benedenstrooms rioolstelsel of direct afgevoerd naar een rioolwaterzuiveringsinstallatie.
+Vacuümriolering is een systeem waarbij afvalwater door middel van onderdruk wordt getransporteerd. Er bestaan verschillende configuraties, maar doorgaans lozen één of meerdere panden onder vrijverval op een bufferput met een klepmechanisme. Zodra een vooraf ingestelde waterdiepte is bereikt, opent de klep. Door de onderdruk in de vacuümleiding wordt vervolgens een mengsel van afvalwater en lucht uit de bufferput gezogen en naar het centrale vacuümstation getransporteerd. Vacuümpompen in dit station zorgen voor de benodigde onderdruk. Vanaf het vacuümstation wordt het afvalwater geloosd op een benedenstrooms rioolstelsel of direct afgevoerd naar een rioolwaterzuiveringsinstallatie.
 
 Uit een rondvraag van RIONED volgde dat gemeenten die vacuümriolering hebben, hier tevreden over zijn. Vacuümriolering heeft een duidelijk toepassingsgebied op locaties die tussen landelijk en stedelijk in liggen, waar drukriolering of vrijvervalriolering minder doelmatig is. De ondiepe ligging en flexibiliteit vereenvoudigen de aanleg en mits goed onderhouden zijn storingsaantallen laag.
 
@@ -61,7 +61,7 @@ Een vacuümstation, of vacuümpompstation ontvangt afvalwater van één of meerd
 -Een luchtafscheider om te voorkomen dat vocht uit de vacuümtank in de vacuümpompen belandt
 -Een geurfilter om onaangename geuren van de afgezogen lucht af te vangen.
 
-# Bestaande vacuümrioleringconcepten in het GWSW
+# Bestaande concepten vacuümriolering in het GWSW
 Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vacuümriolering in het [GWSW]. In tegenstelling tot de termen die de fabrikanten hanteren wordt in het GWSW een vacuümopslagtank als hoofdterm gehanteerd voor de bufferput (bufferput is wel opgenomen als synoniem). Ook zijn onderdelen van een vacuümpompstation zoals een luchtafscheider, vacuümpomp, geurfilter, etc. niet gedefinieerd.
 
 <img src="media/gwsw_huidig.png" style="width:80%;height:80%" />
@@ -71,6 +71,14 @@ Momenteel zijn de in Figuur 3.1 getoonde onderdelen specifiek opgenomen voor vac
 Andere aandachtspunten zijn:
 -Een [vacuümleiding] zou geen ontluchter of ontspanningsventiel (be- en ontluchter) moeten kunnen hebben
 -Een [Vacuümpompstation] is geen deel van een persleidingstelsel
+
+# Nieuwe GWSW-concepten
+Figuur 4.1 geeft een overzicht van de voorgestelde aanpassingen voor de fysieke objecten, welke hieronder verder toegelicht zijn. Inspectiewaarnemingen, metingen of onderhoudsactiviteiten zijn in deze notitie buiten beschouwing gelaten, maar bij behoefte vanuit de beheerders wel later toe te voegen.
+
+<img src="media/GWSW_voorstel.png" style="width:80%;height:80%" />
+
+*Figuur 3.1 - Voorstel concepten vacuümriolering in het GWSW*
+
 
 [Qua-vac]: https://quavac.com/vacuum-sewer-system/
 [GWSW]: https://data.gwsw.nl/?menu_item=classes&item=../../def/1.6.1/Basis/Vacuumriolering
