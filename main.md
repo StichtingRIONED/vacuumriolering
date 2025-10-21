@@ -25,11 +25,11 @@ De opbouw van dit ontwerpdocument is als volgt; eerst zijn de veelgebruikte term
 # Gebruikte termen fabrikanten
 Qua-vac, Flovac en Roediger zijn marktpartijen die vacuümsystemen leveren. Uit een rondgang bij gemeenten met veel kilometer vacuümriolering volgt dat de meeste systemen van Qua-vac afkomstig zijn.
 
-De Engelse website van Qua-vac1 beschrijft de systeemonderdelen uit Figuur 2.1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 2.1 geeft een overzicht van de verschillende termen die de fabrikanten hanteren.
+De Engelse website van Qua-vac [1] beschrijft de systeemonderdelen uit Figuur 2.1. Allereerst wordt afvalwater via vrijvervalverbindingen op een centrale plek ingezameld. Deze put wordt door zowel Roediger als Qua-vac de verzamelput (collection chamber) genoemd, welke ook een bergende functie heeft in geval van storing. In de brochure van Qua-vac wordt ook de term ‘bufferpot’, oftewel bufferput, gebruikt. Flovac heeft het over een collection pit, oftewel een verzamelput. Tabel 2.1 geeft een overzicht van de verschillende termen die de fabrikanten hanteren.
 
 <img src="media/Qua_vac_systeemonderdelen.png" style="width:80%;height:80%" />
 
-*Figuur 2.1 - Systeemonderdelen van het Vacuflow systeem van Qua-vac, Bron: [1]*
+*Figuur 2.1 - Systeemonderdelen van het Vacuflow systeem van Qua-vac. Bron: https://quavac.com/vacuum-sewer-system/*
 
 *Tabel 2.1 - De door fabrikant gebruikte (Engelse) termen voor veel voorkomende systeemonderdelen.*
 
